@@ -1,6 +1,6 @@
 ### Hi there, I am Vedran. 👋
 
-You can read my name out loud as first half of wed(ding) and other half of run(nning), ie. wed-run, which would roughly translate in English as Bright. 😎
+You can read my name out loud as first half of wed(ding) and other half of run(nning), ie. wed-run, which would roughly translate in English as Bright, Brighty or Brighton. 😎
 
 - 🔭 I’m currently working in: insurance.
 - 🌱 I’m currently learning: flutter and github actions.
