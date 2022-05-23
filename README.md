@@ -5,13 +5,13 @@
 - 👯 I’m looking to collaborate on: anything fun.
 - 🤔 I’m looking for help with: nothing atm.
 - 💬 Ask me about: dogs, cameras and skateboarding.
-- 📫 How to reach me: @vekzdran on Twitter.
-- 😄 Pronouns: hr/him.
-- ⚡ Fun fact: Can't see all the colors... 🌈
+- 📫 How to reach me: <a href="https://twitter.com/vekzdran">@vekzdran</a> on Twitter.
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I don't see all colors... 🌈
 
 <p align="left">
-    <a href="https://twitter.com/vekzdran"><img src="https://img.shields.io/badge/-Twitter-fc0303?style=flat-square&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/vedranmandic"><img src="https://img.shields.io/badge/-LinkedIn-fc0303?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    <a href="https://twitter.com/vekzdran"><img src="https://img.shields.io/badge/-Twitter-e05d44?style=flat-square&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/vedranmandic"><img src="https://img.shields.io/badge/-LinkedIn-e05d44?style=flat-square&logo=linkedin&logoColor=white"/></a>
     <a href="https://functor-software.hr"><img src="https://img.shields.io/badge/web-functor--software.hr-red?style=flat-square&logo=RSS&logoColor=white"/></a>
 </p>
 
