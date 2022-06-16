@@ -17,7 +17,7 @@ You can read my name out loud as first half of wed(ding) and first half of run(n
     <a href="https://functor-software.hr"><img src="https://img.shields.io/badge/web-functor--software.hr-red?style=flat-square&logo=RSS&logoColor=white"/></a>
 </p>
 
-I'm a full stack developer with over 10 years of professional experience with focus in web enterprise solutions build on .NET. I'm skilled in building and maintaining .NET solutions but I love trying out new technologies such as Flutter, Go, kubernetes. Also I am a Microsoft Certified professional and trainer and big lover all .NET / C# things.
+I'm a full stack developer with over 10 years of professional experience with focus in web enterprise solutions built on .NET. I'm skilled in building and maintaining .NET solutions but I love trying out new technologies such as Flutter, Go, kubernetes. Also I am a Microsoft Certified professional and trainer and big lover all .NET / C# things.
 
 ## GitHub Stats
 
