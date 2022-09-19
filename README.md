@@ -3,7 +3,7 @@
 You can read my name out loud as first half of wed(ding) and first half of run(ning), ie. wed-run, which would roughly translate in English as Bright, Brighty or Brighton. 😎
 
 - 🔭 I’m currently working in: SEO/SEM industry.
-- 🌱 I’m currently learning: nullable reference types in C#.
+- 🌱 I’m currently learning: managing DB migrations with fluent-migrator in C#
 - 👯 I’m looking to collaborate on: anything fun.
 - 🤔 I’m looking for help with: nothing atm.
 - 💬 Ask me about: dogs, cameras and skateboarding.
