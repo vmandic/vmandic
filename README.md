@@ -2,14 +2,14 @@
 
 You can read my name out loud as first half of wed(ding) and first half of run(ning), ie. wed-run, which would roughly translate in English as Bright, Brighty or Brighton. 😎
 
-- 🔭 I’m currently working in: SEO/SEM industry.
-- 🌱 I’m currently learning: migrating to .NET6/7
+- 🔭 I’m currently working in: SEO/SEM industry as C#/.NET backend dev.
+- 🌱 I’m currently learning: migrating to .NET6/7 and doing some perf optimizations.
 - 👯 I’m looking to collaborate on: anything fun.
-- 🤔 I’m looking for help with: nothing atm.
-- 💬 Ask me about: dogs, cameras and skateboarding.
-- 📫 How to reach me: <a href="https://twitter.com/vekzdran">@vekzdran</a> on Twitter.
+- 🤔 I’d like to learn / do: Flutter, and build my first mobile app.
+- 💬 Ask me about: dogs, Zagreb, cameras, balkans, philosophy, psychology, rap or metal music and skateboarding.
+- 📫 How to reach me: <a rel="me" href="https://hachyderm.com/@vekzdran">@vekzdran</a> on Mastodon.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I don't see all colors... 🌈
+- ⚡ Fun fact: I don't see all colors... 🌈 really.
 
 <p align="left">
     <a href="https://twitter.com/vekzdran"><img src="https://img.shields.io/badge/-Twitter-e05d44?style=flat-square&logo=twitter&logoColor=white"/></a>
