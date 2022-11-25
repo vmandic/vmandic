@@ -12,7 +12,7 @@ You can read my name out loud as first half of wed(ding) and first half of run(n
 - ⚡ Fun fact: I don't see all colors... 🌈 really.
 
 <p align="left">
-    <a href="https://hachyderm.com/@vekzdran"><img src="https://img.shields.io/badge/-Mastodon-red?style=flat-square&logo=mastodon&logoColor=white"/></a>
+    <a href="https://hachyderm.io/@vekzdran"><img src="https://img.shields.io/badge/-Mastodon-red?style=flat-square&logo=mastodon&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/vedranmandic"><img src="https://img.shields.io/badge/-LinkedIn-e05d44?style=flat-square&logo=linkedin&logoColor=white"/></a>
     <a href="https://functor-software.hr"><img src="https://img.shields.io/badge/web-functor--software.hr-red?style=flat-square&logo=RSS&logoColor=white"/></a>
 </p>
