@@ -7,7 +7,7 @@ You can read my name out loud as first half of wed(ding) and first half of run(n
 - 👯 I’m looking to collaborate on: anything fun.
 - 🤔 I’d like to learn / do: Flutter, and build my first mobile app.
 - 💬 Ask me about: dogs, Zagreb, cameras, balkans, philosophy, psychology, rap or metal music and skateboarding.
-- 📫 How to reach me: <a rel="me" href="https://hachyderm.com/@vekzdran">@vekzdran</a> on Mastodon.
+- 📫 How to reach me: <a rel="me" href="https://hachyderm.io/@vekzdran">@vekzdran</a> on Mastodon.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I don't see all colors... 🌈 really.
 
