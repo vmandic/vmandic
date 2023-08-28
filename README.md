@@ -19,6 +19,7 @@ You can read my name out loud as first half of wed(ding) and first half of run(n
 
 I'm a full stack developer with over 10 years of professional experience with focus in web enterprise solutions built on .NET. I'm skilled in building and maintaining .NET solutions but I love trying out new technologies such as Flutter, Go, kubernetes. Also I am a Microsoft Certified professional and trainer and big lover all .NET / C# things.
 
+<!--
 ## GitHub Stats
 
 <a href="https://github.com/vmandic">
@@ -26,3 +27,4 @@ I'm a full stack developer with over 10 years of professional experience with fo
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmandic&theme=codeSTACKr&layout=compact" 
     alt="Vedran's GitHub Top Languages" />
 </a>
+-->
