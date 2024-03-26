@@ -10,4 +10,4 @@ You can read my name out loud as the first half of wed(ding) and first half of r
     <a href="https://functor-software.hr"><img src="https://img.shields.io/badge/web-functor--software.hr-red?style=flat-square&logo=RSS&logoColor=white"/></a>
 </p>
 
-I'm a full stack developer with over 10 years of professional experience with focus in web / enterprise solutions built on .NET. I'm skilled in building and maintaining .NET solutions but I like trying out new technologies.
+I'm a full stack developer with over 12 years of professional experience with focus in web / enterprise solutions built on .NET. I'm skilled in building and maintaining .NET solutions but I like trying out new technologies.
